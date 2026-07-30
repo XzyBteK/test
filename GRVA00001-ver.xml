@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<titlepatch status="alive" titleid="GRVA00001">
+  <tag name="GRVA00001_T0" signoff="true">
+    <package version="03.24"
+             size="44340809"
+             sha1sum="b36778826fae63fa459cb11e1a7e993863090711"
+             url="https://raw.githubusercontent.com/BenMitnicK/TestMarkDown/main/GRVA00001-03.24-PE.VPK"
+             psp2_system_ver="56623104"
+             content_id="HB0000-GRVA00001_00-BGFTPSERVER00000">
+      <paramsfo>
+        <title>BGFTP</title>
+      </paramsfo>
+      <changeinfo url="https://raw.githubusercontent.com/BenMitnicK/TestMarkDown/main/changeinfo2.xml"/>
+    </package>
+  </tag>
+</titlepatch>
