@@ -4,13 +4,13 @@
     <package version="03.24"
              size="44340809"
              sha1sum="b36778826fae63fa459cb11e1a7e993863090711"
-             url="https://raw.githubusercontent.com/BenMitnicK/TestMarkDown/main/GRVA00001-03.24-PE.VPK"
+             url="https://raw.githubusercontent.com/XzyBteK/test/main/GRVA00001-03.24-PE.VPK"
              psp2_system_ver="56623104"
              content_id="HB0000-GRVA00001_00-BGFTPSERVER00000">
       <paramsfo>
         <title>BGFTP</title>
       </paramsfo>
-      <changeinfo url="https://raw.githubusercontent.com/BenMitnicK/TestMarkDown/main/changeinfo2.xml"/>
+      <changeinfo url="https://raw.githubusercontent.com/XzyBteK/test/main/changeinfo2.xml"/>
     </package>
   </tag>
 </titlepatch>
