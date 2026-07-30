@@ -2,15 +2,15 @@
 <titlepatch status="alive" titleid="VTBX00001">
   <tag name="VTBX00001_T0" signoff="true">
     <package version="02.12"
-             size="24897058"
-             sha1sum="91fe06f2783d6dcd60353106bf2f88cbbea1a1af"
-             url="https://raw.githubusercontent.com/BenMitnicK/TestMarkDown/main/VTBX00001-02.12-PE.vpk"
+             size="47406531"
+             sha1sum="dba070da6e24c6f0d4db0076f32b583bd89a99d3"
+             url="https://raw.githubusercontent.com/XzyBteK/test/main/VTBX00001-02.12-PE.vpk"
              psp2_system_ver="56623104"
              content_id="EP9000-VTBX00001_00-VITATWEAKBOX0001">
       <paramsfo>
         <title>VitaTweakBox</title>
       </paramsfo>
-      <changeinfo url="https://raw.githubusercontent.com/BenMitnicK/TestMarkDown/main/changeinfo.xml"/>
+      <changeinfo url="https://raw.githubusercontent.com/XzyBteK/test/main/changeinfo_VTBX.xml"/>
     </package>
   </tag>
 </titlepatch>
