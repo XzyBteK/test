@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<changeinfo titleid="UDCD00001">
-  <changes app_ver="02.12"><![CDATA[
-Native LiveArea update test for UDCD GITHUB.
+<changeinfo titleid="VUSC00001">
+  <changes app_ver="01.37"><![CDATA[
+Native LiveArea update test for Vita USB Stream Control GITHUB.
   ]]></changes>
 </changeinfo>
