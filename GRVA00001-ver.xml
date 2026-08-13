@@ -2,9 +2,9 @@
 <titlepatch status="alive" titleid="GRVA00001">
   <tag name="GRVA00001_T0" signoff="true">
     <package version="03.24"
-             size="44340809"
-             sha1sum="b36778826fae63fa459cb11e1a7e993863090711"
-             url="https://raw.githubusercontent.com/XzyBteK/test/main/GRVA00001-03.24-PE.vpk"
+             size="32488"
+             sha1sum="f07ad86cc2593f0675448d33eb8af689f0aa9f61"
+             url="https://raw.githubusercontent.com/XzyBteK/test/main/GRVA00001-03.24-BGFTP.vpk"
              psp2_system_ver="56623104"
              content_id="HB0000-GRVA00001_00-BGFTPSERVER00000">
       <paramsfo>
